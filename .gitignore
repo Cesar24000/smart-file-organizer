@@ -1,0 +1,11 @@
+# Archivos del sistema macOS
+.DS_Store
+
+# Entornos virtuales y caché de Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Carpeta local que usaremos para probar el script
+carpeta-prueba/
